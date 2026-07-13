@@ -32,6 +32,6 @@ AI-driven SMS automation for US small businesses — rescues missed calls by tex
 - Email: vaf2@cin.ufpe.br
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fialhoalves&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fialhoalves&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Fialhoalves&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fialhoalves&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150"/>
 </p>
